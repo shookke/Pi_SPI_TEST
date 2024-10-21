@@ -1,0 +1,6 @@
+# Environment
+.vscode
+.devcontainer
+
+# Build directories
+/build
